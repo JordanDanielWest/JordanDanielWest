@@ -9,9 +9,3 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jordandanielwest/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jordandanielwest/azure-network-protocols)
-
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
