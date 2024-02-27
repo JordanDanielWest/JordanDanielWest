@@ -1,5 +1,9 @@
 <h1>Hi, I'm Jordan, an <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Passionate Cybersecurity Analyst</a></h1>
 
+<h2>Cybersecurity Projects:</h2>
+
+- [Cloud SOC & Honeynet](https://github.com/JordanDanielWest/Cloud-SOC)
+
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
