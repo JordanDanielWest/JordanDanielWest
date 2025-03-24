@@ -1,5 +1,5 @@
-<h1>Hi, I'm Jordan, <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"> USMC Veteran, IT professional and former business owner with 8 years experience in physical security. My greatest strength is communication and I have a talent for working well under pressure. I am motivated by achievement and I value integrity and efficiency.
-.</a></h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Jordan</a>,  USMC Veteran, IT professional and former business owner with 8 years experience in physical security. My greatest strength is communication and I have a talent for working well under pressure. I am motivated by achievement and I value integrity and efficiency.
+.</h1>
 <h2>## ⚠️ Vulnerability Management Projects</h2>
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
