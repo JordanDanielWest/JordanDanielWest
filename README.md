@@ -2,7 +2,7 @@
 .</h1>
 <h2>## ⚠️ Vulnerability Management Projects</h2>
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 <h2>Cybersecurity Project:</h2>
 
