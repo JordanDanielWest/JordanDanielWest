@@ -9,7 +9,7 @@
 - <b>⚠️ Vulnerability Management Project</b>
   - <a href="https://github.com/JordanDanielWest/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a>
 - <b> Threat Hunting Scenario</b>
-  - <a href="https://github.com/JordanDanielWest/threat-hunting-scenario-tor">Detect TOR Usage On Corporate Devices</a>
+  - <a href="https://github.com/JordanDanielWest/threat-hunting-scenario-tor">Detect Unauthorized TOR Usage On Corporate Devices</a>
 
 <h2>Information Technology Projects:</h2>
 
