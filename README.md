@@ -8,8 +8,8 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/JordanDanielWest/Cloud-SOC)
 - <b>⚠️ Vulnerability Management Project</b>
   - <a href="https://github.com/JordanDanielWest/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation</a>
-- <b> Threat Hunting Scenario(TOR)</b>
-  - <a https://github.com/JordanDanielWest/threat-hunting-scenario-tor</a>
+- <b> Threat Hunting Scenario</b>
+  - <a https://github.com/JordanDanielWest/threat-hunting-scenario-tor>Detect TOR usage on Corporate devices</a>
 
 <h2>Information Technology Projects:</h2>
 
