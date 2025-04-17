@@ -2,7 +2,7 @@
 .</h1>
 
 
-<h2>Cybersecurity Project:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/JordanDanielWest/Cloud-SOC)
