@@ -11,7 +11,8 @@
 - <b> Threat Hunting Scenario</b>
   - <a href="https://github.com/JordanDanielWest/threat-hunting-scenario-tor">Detect Unauthorized TOR Usage On Corporate Devices</a>
   - <a href="https://github.com/JordanDanielWest/Suspected-Exfiltration-of-Company-Data/tree/main"> Investigation of Suspected Exfiltration of Company Data
-  - <a href="https://github.com/JordanDanielWest/Zero-Day-Ransomware-PwnCrypt-Outbreak"> Threat Hunt Report: Zero-Day-Ransomware-PwnCrypt-Outbreak
+  - <a href="https://github.com/JordanDanielWest/Zero-Day-Ransomware-PwnCrypt-Outbreak"> Investigation of Zero-Day-Ransomware-PwnCrypt-Outbreak
+  - <a href= "https://github.com/JordanDanielWest/Sudden-Network-Slowdown"> Investigation of Sudden Network Slowdown
 
 <h2>Information Technology Projects:</h2>
 
