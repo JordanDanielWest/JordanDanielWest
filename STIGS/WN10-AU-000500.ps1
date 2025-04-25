@@ -4,10 +4,10 @@
 
 .NOTES
     Author          : Jordan West
-    LinkedIn        : linkedin.com/in/joshmadakor/
-    GitHub          : github.com/joshmadakor1
-    Date Created    : 2024-09-09
-    Last Modified   : 2024-09-09
+    LinkedIn        : https://www.linkedin.com/in/jordan-west-it/
+    GitHub          : https://github.com/JordanDanielWest
+    Date Created    : 2025-04-25
+    Last Modified   : 2025-04-25
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
