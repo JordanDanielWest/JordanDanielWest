@@ -14,7 +14,7 @@
   - <a href="https://github.com/JordanDanielWest/Zero-Day-Ransomware-PwnCrypt-Outbreak"> Investigation of Zero-Day-Ransomware-PwnCrypt-Outbreak
   - <a href="https://github.com/JordanDanielWest/Sudden-Network-Slowdown"> Investigation of Sudden Network Slowdown
   - <a href="https://github.com/JordanDanielWest/Investigate-Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md"> Investigation of Devices Accidentally Exposed to the Internet
- - <b href="https://github.com/JordanDanielWest/JordanDanielWest/tree/main/STIGS"> STIG Implementations</b>
+ - <b> <a href="https://github.com/JordanDanielWest/JordanDanielWest/tree/main/STIGS">  STIG Implementations</b>
 
 <h2>Information Technology Projects:</h2>
 
