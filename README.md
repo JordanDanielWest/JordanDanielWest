@@ -13,7 +13,7 @@
   - <a href="https://github.com/JordanDanielWest/Suspected-Exfiltration-of-Company-Data/tree/main"> Investigation of Suspected Exfiltration of Company Data
   - <a href="https://github.com/JordanDanielWest/Zero-Day-Ransomware-PwnCrypt-Outbreak"> Investigation of Zero-Day-Ransomware-PwnCrypt-Outbreak
   - <a href="https://github.com/JordanDanielWest/Sudden-Network-Slowdown"> Investigation of Sudden Network Slowdown
-  - <a href="https://github.com/JordanDanielWest/Investigate-Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md"> Investigate Devices Accidentally Exposed to the Internet
+  - <a href="https://github.com/JordanDanielWest/Investigate-Devices-Accidentally-Exposed-to-the-Internet/blob/main/README.md"> Investigation of Devices Accidentally Exposed to the Internet
 
 <h2>Information Technology Projects:</h2>
 
