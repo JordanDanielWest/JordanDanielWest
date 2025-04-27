@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
-    This PowerShell script disables insecure guest access to SMB servers by setting the AllowInsecureGuestAuth registry value to 0.
-
+    This PowerShell script disables insecure guest logons to shared folders by setting the AllowInsecureGuestAuth registry value to 0, ensuring authentication is required for access.
+    
 .NOTES
     Author          : Jordan West
     LinkedIn        : https://www.linkedin.com/in/jordan-west-it/
@@ -20,9 +20,9 @@
     PowerShell Ver. : 
 
 .USAGE
-    Run this script as an administrator to enforce secure SMB client behavior by disabling insecure guest authentication.
+    Run this script as an administrator to prevent unauthenticated guest access to shared resources by disabling insecure guest authentication.
     Example syntax:
-    PS C:\> .\WN10-SO-000110-AllowInsecureGuestAuth.ps1
+    PS C:\> .\WN10-CC-000040-AllowInsecureGuestAuth.ps1
 
 #>
 
