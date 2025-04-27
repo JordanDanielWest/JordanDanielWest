@@ -1,17 +1,17 @@
 <#
 .SYNOPSIS
-    This PowerShell script strips local administrator accounts of admin rights over remote connections unless they use elevated credentials, by setting `LocalAccountTokenFilterPolicy` to `0`.
+    This PowerShell script strips local administrator accounts of admin rights over remote connections unless they use elevated credentials, by setting LocalAccountTokenFilterPolicy to 0.
 
 .NOTES
-    Author          : Josh Madakor
-    LinkedIn        : linkedin.com/in/joshmadakor/
-    GitHub          : github.com/joshmadakor1
-    Date Created    : 2024-09-09
-    Last Modified   : 2024-09-09
+    Author          : Jordan West
+    LinkedIn        : https://www.linkedin.com/in/jordan-west-it/
+    GitHub          : https://github.com/JordanDanielWest
+    Date Created    : 2025-04-27
+    Last Modified   : 2025-04-27
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN10-AU-000500
+    STIG-ID         : WN10-CC-000037
 
 .TESTED ON
     Date(s) Tested  : 
@@ -20,9 +20,10 @@
     PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
+    Run this script as an administrator to enforce UAC filtering on remote connections by setting the LocalAccountTokenFilterPolicy registry value to 0.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> .\WN10-SO-000070-LocalAccountTokenFilterPolicy.ps1
+
 #>
 
 # Define the registry path
