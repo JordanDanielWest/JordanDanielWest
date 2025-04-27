@@ -1,0 +1,37 @@
+<#
+.SYNOPSIS
+    This PowerShell script strips local administrator accounts of admin rights over remote connections unless they use elevated credentials, by setting `LocalAccountTokenFilterPolicy` to `0`.
+
+.NOTES
+    Author          : Josh Madakor
+    LinkedIn        : linkedin.com/in/joshmadakor/
+    GitHub          : github.com/joshmadakor1
+    Date Created    : 2024-09-09
+    Last Modified   : 2024-09-09
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN10-AU-000500
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
+
+.USAGE
+    Put any usage instructions here.
+    Example syntax:
+    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+#>
+
+# Define the registry path
+$regPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System"
+
+# Create the registry key if it doesn't exist
+if (-not (Test-Path $regPath)) {
+    New-Item -Path $regPath -Force
+}
+
+# Set the LocalAccountTokenFilterPolicy DWORD value to 0
+New-ItemProperty -Path $regPath -Name "LocalAccountTokenFilterPolicy" -PropertyType DWord -Value 0 -Force
