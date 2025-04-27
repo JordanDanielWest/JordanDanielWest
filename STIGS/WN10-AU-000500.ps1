@@ -20,9 +20,10 @@
     PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
+    Run this script as an administrator to ensure the maximum size of the Windows Application event log is set to at least 32,768 KB (32 MB).
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> .\WN10-AU-000500-SetApplicationLogMaxSize.ps1
+
 #>
 
 
