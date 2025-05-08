@@ -1,4 +1,8 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Jordan West</a>,  USMC Veteran | Cybersecurity Support Analyst | Hands-On Experience in Vulnerability Management & Remediation | Skilled in Tenable, Azure, PowerShell | Effective Communicator | Integrity-Driven & Mission-Focused
+<h1>Hi, I'm <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Jordan West</a>,  I'm looking to join a team where I can contribute meaningfully, grow alongside experienced professionals, and help strengthen an organization’s security posture from day one.
+
+My focus areas include log analysis, vulnerability management, and security frameworks like NIST and ISO 27001. I’ve applied tools such as Tenable, Nessus, and Microsoft Defender for Endpoint (MDE) in hands-on projects to identify vulnerabilities, assess risks, and enhance endpoint security. I’m working toward certifications to validate what I’m already practicing. I take pride in learning fast, staying level-headed under pressure, and asking the right questions.
+
+Disciplined, adaptable, and eager to grow in cybersecurity. I'm pursuing entry-level roles in GRC or SOC analysis. I bring a military background, a calm mindset, and a strong desire to learn.
 </h1>
 
 
