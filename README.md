@@ -25,3 +25,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JordanDanielWest/Configure-Active-Directory-with-Azure-VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JordanDanielWest/Network-Security-Groups-and-Inspecting-Network-Protocols)
+- <b>Home Fixes</b>
+  - [Slow Upload speeds fixed by disabling LSov2 (IPv4 & Ipv6)(https://github.com/JordanDanielWest/Disable-LSOv2)
